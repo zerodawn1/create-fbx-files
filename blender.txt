@@ -2,7 +2,7 @@ https://www.blender.org/
 (download newest version)
 
 https://github.com/powroupi/blender_mmd_tools
-(download the whole update)
+(download the whole package)
 
 here a link on how to import the mmd tools into blender 2.8:
 	https://www.youtube.com/watch?v=NtPSo7xPIkM
@@ -16,8 +16,8 @@ version 1.
 	start the tso2pmd.exe with the girl icon.
 	drag and drop, to load the png hard save in tso2pmd. (https://www.youtube.com/watch?v=GC-nj2yv64Y)
 	now there are two buttons over TSO-> PMD. (you can also use the tso2pmx, but it is not working for me.)
-	The left button should create a 3d viewer.
-	The right button should create a list of 3d items for the model.
+	The left button creates a 3d viewer.
+	The right button shows you a list of all 3d items for the model.
 	select just one item (like clothes, you can check the selected item inside the 3d viewer)
 	export the item as pmd.
 	import the pmd in blender. You'll have to scale the item.
@@ -25,9 +25,9 @@ version 1.
 	now click on the model it will be yellow selected. 
 	on the right side, you'll find a button, a ball with an red shape.
 	now you can view the mesh material for ths specific item.
-	for that, click on a button right beside color than image texture. 
-	when everything look fine for you export the model as fbx.( make sure to use copy instead of auto and click on the button (who looks like a folder, it should turn blue and the icon should change).
-	now you're  ready to export the file with texture.
+	click on a button right beside color than image texture. 
+	when everything look fine for you export the model as fbx.( make sure to use copy instead of auto and click on the button (the button looks like a folder, it should turn blue and the icon should change).
+	now you're ready to export the file with textures.
 	
 version 2.
 	open blender 
@@ -36,7 +36,7 @@ version 2.
 	now begins the stressful part >.< .
 	https://www.youtube.com/watch?v=A1X-GiMGrow
 
-	when you are done save just the clothing.
+	when you are done, save just the clothing model.
 	
 	
 	
