@@ -33,7 +33,7 @@ version 1.
 version 2.
 	open blender 
 	import the plane 3d model. You'll find 3 3d models with pale, light and dark skin as fbx.
-	(you need to model it for one character)
+	(you need to model the item for just one character)
 	now begins the stressful part >.< .
 	https://www.youtube.com/watch?v=A1X-GiMGrow
 
