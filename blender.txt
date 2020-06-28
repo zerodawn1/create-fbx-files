@@ -7,7 +7,8 @@ https://github.com/powroupi/blender_mmd_tools
 here a link on how to import the mmd tools into blender 2.8:
 	https://www.youtube.com/watch?v=NtPSo7xPIkM
 
-	
+downlaod 3dcg base game + mods:
+	https://www.youtube.com/watch?v=gDiFXyf49kg  link in the description
 	
 version 1.
 	create in 3dcg a model.(please make sure to set all sliders to medium, otherwise the asset will not fit to the current characters)
