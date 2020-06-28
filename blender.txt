@@ -12,8 +12,8 @@ downlaod 3dcg base game + mods:
 	
 version 1.
 	create in 3dcg a model.(please make sure to set all sliders to medium, otherwise the asset will not fit to the current characters)
-	(what means hight, bosom etc... ) when you are unsure about it, load the heavy save models into 3dcg. (png format)
-	save the model as hard save doing it with ctrl + left click the save button.
+	(what means height, bosom size etc... ) when you are unsure about it, load my models into 3dcg. (png format)
+	save the model as hard save, doing it with ctrl + left click the save button.
 	start the tso2pmd.exe with the girl icon.
 	drag and drop, to load the png hard save in tso2pmd. (https://www.youtube.com/watch?v=GC-nj2yv64Y)
 	now there are two buttons over TSO-> PMD. (you can also use the tso2pmx, but it is not working for me.)
@@ -37,7 +37,7 @@ version 2.
 	now begins the stressful part >.< .
 	https://www.youtube.com/watch?v=A1X-GiMGrow
 
-	when you are done, save just the clothing model.
+	when you are done, save just the clothing.
 	
 	
 	
